@@ -1,2 +1,0 @@
-# peluqueria-canina
-web
